@@ -1,7 +1,18 @@
 /build/
+
+#eclipse ignores
 /.settings/
 /.classpath
 /.project
 /.gradle/
 /bin/
+
+#idea ignores
+/*.ipr
+/*.iws
+/*.iml
+
+#os ignores
 /.directory
+/*~
+
