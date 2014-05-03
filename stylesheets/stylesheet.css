@@ -160,7 +160,7 @@ p img {
 pre, code {
   width: 100%;
   color: #222;
-  background-color: #fff;
+  background-color: #B79A83;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
@@ -282,7 +282,7 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-  visibility: false;
+  visibility: hidden;
 }
 
 #header_wrap {
@@ -322,7 +322,7 @@ Full-Width Styles
   right: 0;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
-	visibility: false;
+	visibility: hidden;
 }
 
 .zip_download_link {
@@ -355,7 +355,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #B79A83;
+  background: #F9D2B2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
